@@ -18,7 +18,7 @@ print("nirajj")
 #Variables in python
 a= 1232425426
 print(a)
-b="Niraj"
+b="Niraj Singh"
 print(b)
 c=True #boolean datat ype
 d=None #null type value
