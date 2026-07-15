@@ -43,6 +43,8 @@ print(e)
 #after creation
 list1= [[8,3.3],['Apple','banana']]
 print(list1)
+list1= [[9,4.3],['Samusung','Acer']]
+print(list1)
 
 
 #tuple
