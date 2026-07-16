@@ -61,4 +61,6 @@ print(tuple1)
 dict1 ={"name":"niraj","age":20,"canvote":True}
 print(dict1)
 
+dict1 ={"name":"Sing","age":23,"canvote":True}
+print(dict1)
 #everthing in python is an object!!
