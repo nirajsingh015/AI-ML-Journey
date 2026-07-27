@@ -13,9 +13,9 @@ while 1>0:
         if num1!=0:
             print("Result =",num1 / num2)
         else:
-            print("Erroe! Division by zero is not allowed.")
+            print("Erroe! Division by Zero is not allowed.")
     else:
-        print("Invalid operator!")
+        print("Invalid Operator!")
 
 
 
