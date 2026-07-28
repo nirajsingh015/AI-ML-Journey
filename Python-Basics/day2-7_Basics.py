@@ -64,3 +64,14 @@ print(dict1)
 dict1 ={"name":"Sing","age":23,"canvote":True}
 print(dict1)
 #everthing in python is an object!!
+
+#operators in in python
+#addition subtraction multiplication excpoential
+#modulo floor division
+print(5+10)
+print(5-2)
+print(15*10)
+print(15/5)
+print(15//2)#floor divion
+print(5%3)#modulo
+print(5**3)#exponential

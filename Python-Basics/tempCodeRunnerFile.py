@@ -1,22 +1,6 @@
-#calculator
-while 1>0:
-    num1= float(input('Enter First number:'))
-    operator =input("Enter operator(+,-,*,/):")
-    num2= float(input("Enter Second number:"))
-    if operator =="+":
-        print("Result =",num1 + num2)
-    elif operator =="-":
-        print("Result =",num1 - num2)
-    elif operator =="*":
-        print("Result =",num1 * num2)
-    elif operator =="/":
-        if num1!=0:
-            print("Result =",num1 / num2)
-        else:
-            print("Erroe! Division by zero is not allowed.")
-    else:
-        print("Invalid operator!")
-
-
-
-
+c=1.9
+print(type(c))
+d=8
+print(type(d))
+print(c+d)
+print(type(c+d))
