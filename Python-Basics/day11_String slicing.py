@@ -1,3 +1,7 @@
+#String Slicing
+'''String Slicing and Operations on String
+
+We can fin the length of a string using len() function'''
 
 fruit= "mango"
 len1= len(fruit)
@@ -14,5 +18,5 @@ print(fruit[-3:-1]) #output is ng
 print(fruit[-4:-2])# here mango is 5 letter so
 # pyhton will subtract 5 -4=1 and 5 -2  i s3
 #so it will print  m=0,a=1, n=2,g=3,o=4 
-
+# the output will be 'an'.
 
