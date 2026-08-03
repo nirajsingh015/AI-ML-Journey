@@ -16,7 +16,7 @@ print(fruit[-1:len(fruit)-3])
 print(fruit[-3:-1]) #output is ng 
 #this is because
 print(fruit[-4:-2])# here mango is 5 letter so
-# pyhton will subtract 5 -4=1 and 5 -2  i s3
+# pyhton will subtract 5 -4=1 and 5 -2  is 3
 #so it will print  m=0,a=1, n=2,g=3,o=4 
 # the output will be 'an'.
 
