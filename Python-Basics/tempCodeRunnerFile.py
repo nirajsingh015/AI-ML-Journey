@@ -1,2 +1,3 @@
-str6="Welcome to the conseole!"
-print(str6.center(50))
+
+str14="welcome to the console!"
+print(str14.title())
