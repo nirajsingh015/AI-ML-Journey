@@ -15,7 +15,7 @@ nested if-else-elif
 An if......else statement evaluates like this:
 if the expression evauates True:
     executes the block of code inside if statement. After execution return to
-    the code out of the else block
+    the code out of the else block.
 if the expression evaluates False:
     execute.'''
 
