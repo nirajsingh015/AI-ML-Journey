@@ -1,13 +1,13 @@
-import time
-timestamp= time.strftime("%H,%M,%S")
-print(timestamp)
-H= int(time.strftime("%H"))
-print(timestamp)
-if(5<=H<=12):
-    print("Good Morning!")
-elif(12 == H<=17):
-    print("Good Afternoon!")
-elif(17== H <21):
-    print("Good Evening!")
-else:
-    print("Good Night!")
+x=int(input("Enter the value of x:"))
+# xis a variable to match.
+match x:
+    case 0:
+        print("x is zero")
+    case 4:
+        print("x is 4")
+    case _ if x!=80:
+        print(x)
+    case _ if x!=90:
+        print(x)
+    #case _:
+      #  print(x)
