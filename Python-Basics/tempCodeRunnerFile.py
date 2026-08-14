@@ -1,3 +1,7 @@
 
-for i in range(1, 12, 3):
-    print(i)
+while True:
+    num=int(input("Enter your number"))
+    print("you entered:",num)
+
+    if num==0:
+        break
