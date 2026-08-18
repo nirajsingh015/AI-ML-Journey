@@ -1,5 +1,5 @@
 '''Break Statement
-The break statement enables a program to skip over a part of the code. A break statement
+The Break statement enables a program to skip over a part of the code. A break statement
 terminates the very loop it lies within.'''
 #IT WILL SKIP THE  LOOP IF THE BREAK IS EXECUTED
 for i in range(1, 101,1):
