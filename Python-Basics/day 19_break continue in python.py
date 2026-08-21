@@ -12,7 +12,7 @@ print("thank you")
 #IT WILL SKIP THE ITERATION IF THE CONDITION IS MATCHED
 '''Continue Statement:
 THe continue statement skips the rest of the loop
-statements and causes the next iteration to occur..'''
+statements and causes the next iteration to occur.'''
 
 for i in [2,3,4,5,6,7,8,0]:
     if(i%2!=0):
