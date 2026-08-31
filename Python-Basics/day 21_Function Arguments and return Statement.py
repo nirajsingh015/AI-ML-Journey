@@ -8,7 +8,7 @@ There are four types of a arguments that we can provide in a functions:
 4. Required Arguments
 
 Default arguments:
-WE can provide a default value while creating a funtion. This way the 
+We can provide a default value while creating a funtion. This way the 
 function assumes a default value even if a value is not provided int the
 functions call for that argument.
 '''
