@@ -1,1 +1,1 @@
-'''List in Pyhton'''
+'''List in Python'''
