@@ -1,5 +1,3 @@
-def multiply(a, b):
-    return a*b  # send the calculated result back
-
-result= multiply(5,2)
-print(result+ 10) #output 20
+names=["Milo","sarsh","Bruno","Anastansia","Rick"]
+nameswith_0=[item for item in names if(len(item)>4)]
+print(nameswith_0)
