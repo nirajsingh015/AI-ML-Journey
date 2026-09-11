@@ -104,7 +104,7 @@ lst=[i for i in range(10) if i%2==0]
 print(lst)
 [0, 2, 4, 6, 8]
 #Accepts items which have more than 4 cahracters
-names=["Milo","sarsh","Bruno","Anastansia","Rick"]
+names=["Milo","sarah","Bruno","Anastansia","Rick"]
 nameswith_0=[item for item in names if(len(item)>4)]
 print(nameswith_0)
 #['sarsh', 'Bruno', 'Anastansia'] output
