@@ -1,2 +1,2 @@
 #List Methods:-
-'''List  in Python.'''
+'''List  in Python'''
