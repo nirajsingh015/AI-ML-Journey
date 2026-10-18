@@ -1,2 +1,2 @@
-'''Tuples in python:;
+'''Tuples in python:
 '''
