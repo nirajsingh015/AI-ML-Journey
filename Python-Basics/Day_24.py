@@ -1,4 +1,4 @@
 '''Tuples in python:
 #Example:-
-Tuple  is used to store data in python.
+Tuples  is used to store data in python.
 '''
